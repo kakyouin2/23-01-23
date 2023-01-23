@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Lenovo TWO\source\repos\23 01 23\main.cpp(16,27): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\Lenovo TWO\source\repos\23 01 23\main.cpp(16,13): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  23 01 23.vcxproj -> C:\Users\Lenovo TWO\source\repos\23 01 23\x64\Debug\23 01 23.exe
